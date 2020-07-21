@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1036885972521",
+    "firebase_url": "https://honestlyy.firebaseio.com",
+    "project_id": "honestlyy",
+    "storage_bucket": "honestlyy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036885972521:android:abe208ef4ee4a808852e38",
+        "android_client_info": {
+          "package_name": "com.arpit.honestlyy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036885972521-1i0pp48abrijfdb26qgs7malfql203r5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arpit.honestlyy",
+            "certificate_hash": "6c3e768a48f20c5956d093ff0a6dea3c4c7bd048"
+          }
+        },
+        {
+          "client_id": "1036885972521-7qtlic6re5gsteoa81md026d3vqiqnr4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK5WpSu7iLQYLTNSZt4j3BjdmrOEOpaMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036885972521-7qtlic6re5gsteoa81md026d3vqiqnr4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
